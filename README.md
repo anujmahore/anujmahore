@@ -30,8 +30,8 @@
 <br/>
 
 <div align="center">
-  <a href="https://leetcode.com/u/39nd6HXnZg/">
-    <img src="https://leetcard.jacoblin.cool/dhruvi-29?theme=dark&font=Noto%20Sans%20Math&ext=heatmap" alt="LeetCode Stats" />
+  <a href="https://leetcode.com/u/Anujmahore/">
+    <img src="https://leetcard.jacoblin.cool/Anujmahore?theme=dark&font=Noto%20Sans%20Math&ext=heatmap" alt="LeetCode Stats" />
   </a>
   <br/><br/>
   
@@ -103,57 +103,18 @@
 - **CodeForces:** Specialist rank with peak rating of 1460, secured a 1411th rank in a Div. 2 contest 
 - **CodeChef:** 4⭐ rating with peak performance of 1865, ranked 25th globally
 
-### 🏅 Competitions & Recognition:
-- **Finalist at Smart India Hackathon 2025, recognized nationally for building a real-world, scalable tech solution under competitive constraints**
-- **4th place** in Predictioneer Hackathon '25 by **IIT Bombay** for Ebola outbreak prediction model
-- **Top 80** selected for **LinkedIn CoachIn Program 2025** from 18,000+ applicants
-- **Teaching Assistant** for Fundamentals of Computer Programming, supporting 100+ students
-
-### 🚀 Projects:
-- **Mini Q&A System:**
-  - Developed an intelligent query-answering system using Hugging Face transformers and Google Search API
-  - Achieved 80% precision with real-time data retrieval in 4-5 seconds
-  - Built user-friendly Flask interface for seamless navigation
-  
-- **Cyn Web Tool:**
-  - Built a microservices-based OSINT platform using Next.js, Python, and MongoDB for metadata-only threat analysis
-  - Processed and analyzed 10k+ metadata records using a Random Forest model to generate suspiciousness scores
-  - Integrated ipinfo API and Telethon bots to monitor Telegram activity, producing 200+ flagged events and identifying 30+ high-risk entities
-
-- **CryptoTracker** 
-  - Created an interactive web platform tailored for cryptocurrency enthusiasts, offering detailed insights on the top 100 cryptocurrencies including names, symbols, market trends, and user-friendly visual 
-  - Implemented scalable RESTful APIs to seamlessly fetch real-time and historical crypto data, covering key metrics such as current prices, market capitalization, trading volume, exchange listings, and global       rankings 
-  - Leveraged Chart.js to dynamically visualize price movements across multiple timeframes—24 hours, 7 days, 30 
-    days, and 1 year 
-
-<br/>
-
-
-
-
 <br/>
 
 <h2 align="center">💼 Experience 💼</h2>
 <br/>
 
-###  LinkedIn CoachIn Mentee'25 - LinkedIn
-**March 2025 - July 2025**
-- Shortlisted among top 80 selected from 18,000+ for LinkedIn CoachIn 2025; received 1:1 mentorship from LinkedIn engineers in DSA, OOPs, and career development
-- Developed SkillSync, a GenAI-powered LinkedIn extension during the CoachIn Hackathon, impacting 1,000+ users by enabling personalized skill tracking, milestone mapping, and AI-driven learning recommendations
-- Integrated features like SmartSort, UpSkill AI, and SkillGraph and automating post organization with 60% improved content relevance
+### 🎓 Campus Representative – GeeksforGeeks
 
-### 🔬 Research Intern - IIT Hyderabad
-**December 2024 - January 2025**
-- Built Contrastive Learning framework using ResNet-18 and 2-layer projection head
-- Processed medical imaging data with CUDA and PyTorch for ovarian cancer research
-- Achieved efficient training with optimized batch processing and learning rates
+**June 2025 – Present**
 
-### 👨‍💻 Assistant Data Science Developer - AXIOS, IIIT Bhopal
-**July 2024 - May 2025**
-- Lead a team of 3 Data Science developers, mentoring 100+ students
-- Orchestrated and directed 3+ hackathons with effective project management
-- Fostered collaboration and knowledge-sharing in the AXIOS club community
-
+- Promoting GeeksforGeeks initiatives and technical events at IIIT Bhopal.
+- Helping students discover learning resources and coding opportunities.
+- Building engagement within the campus programming community.
 <br/>
 
 <h3 align="center">
