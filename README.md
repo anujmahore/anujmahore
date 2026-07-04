@@ -127,13 +127,13 @@
 
 
 <div align="center">
-  <a href="https://leetcode.com/u/dhruvi-29/" target="_blank">
+  <a href="https://leetcode.com/u/Anujmahore/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
   </a>
-  <a href="https://www.codechef.com/users/dhruvi_05" target="_blank">
+  <a href="https://www.codechef.com/users/solar_shore_43" target="_blank">
     <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" />
   </a>
-  <a href="https://codeforces.com/profile/dhruvi_05" target="_blank">
+  <a href="https://codeforces.com/profile/anujmahore21" target="_blank">
     <img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" alt="Codeforces" />
   </a>
 </div>
