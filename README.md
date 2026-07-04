@@ -33,12 +33,14 @@
   <a href="https://leetcode.com/u/Anujmahore/">
     <img src="https://leetcard.jacoblin.cool/Anujmahore?theme=dark&font=Noto%20Sans%20Math&ext=heatmap" alt="LeetCode Stats" />
   </a>
-  <br/><br/>
+</div>
+  <br/>
   
 
 
-
-## 👨‍💻 Tech Stack<br>
+<h2 align="center">
+ 👨‍💻 Tech Stack<br>
+</h2>
 
 ### Programming Languages
 
@@ -94,9 +96,10 @@
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
 <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
 </p>
+</br>
 
 <h2 align="center">🏆 Achievements 🏆</h2>
-<br/>
+
 
 ### 🥇 Competitive Programming:
 - **LeetCode:** 720+ algorithmic challenges solved on LeetCode and Knight Badge ranked in the top 4.7% globally with a peak score of 1887
@@ -106,7 +109,7 @@
 <br/>
 
 <h2 align="center">💼 Experience 💼</h2>
-<br/>
+
 
 ### 🎓 Campus Representative – GeeksforGeeks
 
