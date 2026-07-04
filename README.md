@@ -13,10 +13,10 @@
 <br/>
 
 <div align="center">
-  <a href="mailto:dhruvi2904.sharma@gmail.com">
+  <a href="anujmahore21@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" alt="Gmail" />
   </a>
-  <a href="https://www.linkedin.com/in/dhruvi-sharma-b10297286" target="_blank">
+  <a href="https://www.linkedin.com/in/anuj-m-273b87316" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://github.com/dhruvi-05" target="_blank">
@@ -102,10 +102,10 @@
 
 
 ### 🥇 Competitive Programming:
-- **LeetCode:** 720+ algorithmic challenges solved on LeetCode and Knight Badge ranked in the top 4.7% globally with a peak score of 1887
-- **CodeForces:** Specialist rank with peak rating of 1460, secured a 1411th rank in a Div. 2 contest 
-- **CodeChef:** 4⭐ rating with peak performance of 1865, ranked 25th globally
 
+- **LeetCode:** Solved **350+** algorithmic problems, demonstrating strong problem-solving skills across Data Structures and Algorithms.
+- **CodeChef:** Achieved a **2⭐** rating with a peak rating of **1556**, securing **Global Rank 189** among **20,000+ participants** in a CodeChef Starters contest.
+- **AtCoder:** Secured **107th Rank** among **10,500+ participants** in the **CodeQueen 2026 Qualifier**, showcasing strong competitive programming performance.
 <br/>
 
 <h2 align="center">💼 Experience 💼</h2>
