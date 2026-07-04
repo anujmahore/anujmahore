@@ -111,20 +111,20 @@
 <h2 align="center">💼 Experience 💼</h2>
 
 
-### 🎓 Campus Representative – GeeksforGeeks
+### 🎓 Campus Representative | GeeksforGeeks
 
-**June 2025 – Present**
+**January 2026 – June 2026**
 
-- Promoting GeeksforGeeks initiatives and technical events at IIIT Bhopal.
-- Helping students discover learning resources and coding opportunities.
-- Building engagement within the campus programming community.
-<br/>
+- Served as the official GeeksforGeeks Campus Representative at IIIT Bhopal.
+- Promoted coding events, technical workshops, and learning initiatives to increase student engagement.
+- Connected peers with competitive programming resources and software engineering learning opportunities.
+
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌;+Shoot+me+a+message+on+LinkedIn!;Let's+collaborate+on+ML+projects!:)" alt="Closing Message" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌;+Shoot+me+a+message+on+LinkedIn!" alt="Closing Message" />
 </h3>
 
-<br/>
+
 
 <div align="center">
   <a href="https://leetcode.com/u/dhruvi-29/" target="_blank">
