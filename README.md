@@ -30,7 +30,7 @@
 <br/>
 
 <div align="center">
-  <a href="https://leetcode.com/u/dhruvi-29/">
+  <a href="https://leetcode.com/u/39nd6HXnZg/">
     <img src="https://leetcard.jacoblin.cool/dhruvi-29?theme=dark&font=Noto%20Sans%20Math&ext=heatmap" alt="LeetCode Stats" />
   </a>
   <br/><br/>
